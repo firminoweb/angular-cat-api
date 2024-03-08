@@ -24,5 +24,6 @@ Follow below, the specifications of the BackEnd:
 * Axios (Http Request)
 * Nodemon (Monitor and Restarter Server)
 
+
 ### **IMPORTANT**: For localhost, you need to run BFF first for FrontEnd works properly.
 ---
